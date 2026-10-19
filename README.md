@@ -96,7 +96,7 @@ Icons should be in svg format. Icons should have names as shown [here](https://g
 
 #### Example usage:
 ###### Card with current time, date and day
-![date-time](https://github.com/mlamberts78/weather-chart-card/assets/93537082/ab2c32f7-8c6a-4a7e-84fc-f857a519a725)
+![date-time](https://github.com/tomatogod/weather-chart-card/assets/93537082/ab2c32f7-8c6a-4a7e-84fc-f857a519a725)
 ```yaml
 type: custom:weather-chart-card
 entity: weather.weather_home
@@ -108,7 +108,7 @@ icon_style: style1
 
 ```
 ###### Style2 chart
-![style2](https://github.com/mlamberts78/weather-chart-card/assets/93537082/3067cc43-0e80-492c-b4a5-771b1e44ea17)
+![style2](https://github.com/tomatogod/weather-chart-card/assets/93537082/3067cc43-0e80-492c-b4a5-771b1e44ea17)
 ```yaml
 type: custom:weather-chart-card
 entity: weather.my_home
@@ -116,7 +116,7 @@ forecast:
   style: style2
 ```
 ###### Chart only
-![Chart-only](https://github.com/mlamberts78/weather-chart-card/assets/93537082/c99d85a4-30d1-4fd9-90ff-877421b39e9b)
+![Chart-only](https://github.com/tomatogod/weather-chart-card/assets/93537082/c99d85a4-30d1-4fd9-90ff-877421b39e9b)
 ```yaml
 type: custom:weather-chart-card
 entity: weather.my_home
@@ -128,7 +128,7 @@ forecast:
 ```
 
 ###### Custom units
-![Units](https://github.com/mlamberts78/weather-chart-card/assets/93537082/e72862ee-9bb7-4f97-9a3c-b17663c458aa)
+![Units](https://github.com/tomatogod/weather-chart-card/assets/93537082/e72862ee-9bb7-4f97-9a3c-b17663c458aa)
 ```yaml
 type: custom:weather-chart-card
 entity: weather.my_home
